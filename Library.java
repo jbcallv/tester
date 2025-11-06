@@ -6,6 +6,12 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
+/**
+ * this is a class to do x y z
+ * and also does
+ * a b c
+ */
+
 public class Library {
     private List<Book> books;
     private String name;
